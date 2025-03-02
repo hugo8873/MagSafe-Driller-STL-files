@@ -1,7 +1,8 @@
 # MagSafe Magnetic Ring Slotting Tool for Phone Cases
 
 This repository contains a 3D model designed to help you create a precise slot for a MagSafe magnetic ring on your phone case. The model is compatible with standard printing materials and can be used with basic tools such as sandpaper, glue, and either manual or electric tools. The design ensures a maximum slot depth of 1mm, preventing over-drilling and potential damage to your phone case. However, if your phone case is particularly thin, it is not recommended to attempt this modification.
-
+![](images/1b495ca9a85275e6ea96299e8f0fa38e.PNG)
+![](images/86de8435c7f912d2e382297d22d344f0.PNG)
 ## Features
 - **1mm Maximum Slot Depth**: The model is designed to stop at 1mm depth, ensuring your phone case won't be punctured.
 - **DIY-Friendly**: Utilizes common materials like sandpaper, glue, and basic tools.
